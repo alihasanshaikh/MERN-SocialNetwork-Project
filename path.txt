@@ -1,0 +1,28 @@
+\\this way we can add path for npm
+%ProgramFiles%\nodejs\
+%AppData%\npm
+\\ create json file for server 
+npm init -y
+//to install body parcel command for enrcept data or secure 
+npm install body-parser
+//to instal cross origin resourse sharing for security use for midddleware for not geting cross  
+npm install cros 
+//install express is  backend framework we can build web app and api 
+npm install express
+//for mangodb data base to manage traffic like dukaandaar
+npm install mongoose
+//to install nodemon is used for server auto refresh
+npm install nodemon
+//crud
+create,read ,update,delete
+// to install axios npm install axios//used to fetch api aycrionous -await to connect client and server//protection cross-site request forgaary // restful api (represtaional state transfer application programming interface)
+npm install axios
+//to install momment and uses
+npm install moment
+to format date or give timestamp
+//to install redux and usses
+npm i redux-thunk
+predectable state container will be by js ,sate of app client server state management ,to amaintan state 
+redux thumb is middle ware return object
+//materialzie is uded to take many material precoding like navbar
+//hide-on-med-and-down is not used bescuase of risponsive 
